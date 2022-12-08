@@ -1,0 +1,84 @@
+.navbar-nav{
+    margin-left: 400px;
+}
+.outer{
+    height: 180px;
+}
+.inner_a{
+    height: 180px;
+    width: 200px;
+    float: left;
+    border-radius: 50%;
+    
+    
+}
+#thoti{
+    border-radius: 50%;
+}
+#inner_b{
+    height: 180px;
+    width: 700px;
+    float: left ;
+    margin-left: 80px;
+    
+
+}
+.row{
+    margin-top: 50px;
+}
+.a{
+    height: 50px;
+}
+.b{
+    height: 50px;
+}
+.c{
+    height: 150px;
+}
+#btn{
+
+    height: 50px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(106, 106, 106);
+}
+.photo{
+    height: 600px;
+    width: 1115px;
+}
+#one{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#two{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#three{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#four{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#five{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#six{
+    height:300px;
+    width: 370px;
+    float: left;
+}
+#para{
+    font-size: large;
+    font-weight: 400;
+    color: black;
+}
